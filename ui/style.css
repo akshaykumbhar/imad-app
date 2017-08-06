@@ -1,7 +1,7 @@
 body
 {
     width : 700px;
-    margin-left : 20% ;
+    margin-left : 15% ;
 
 }
 
@@ -9,4 +9,5 @@ body
 {
     width : 250px;
     height : 250px;
+    padding-left : 25%;
 }
